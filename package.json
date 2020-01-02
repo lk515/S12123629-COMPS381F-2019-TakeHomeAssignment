@@ -1,0 +1,16 @@
+{
+  "name": "S12123629-COMPS381F-2019-TakeHomeAssignment",
+  "author": "Leung Kwan Ho",
+  "description": "COMPS381F-TakeHomeAssignment",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "ejs": "latest",
+    "exif": "latest",
+    "formidable": "latest",
+    "express": "latest"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
